@@ -75,7 +75,7 @@ eval("let components = __webpack_require__(1);\r\nexports.apps = components;\n\n
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\r\n\r\nmodule.exports = function (message) {\r\n    debugger;\r\n    alert(`Добро пожаловать, 1 ${message}`);\r\n};\n\n//////////////////\n// WEBPACK FOOTER\n// ./src/components/index.js\n// module id = 1\n// module chunks = 0\n\n//# sourceURL=webpack:///./src/components/index.js?");
+eval("\r\n\r\nmodule.exports = function (message) {\r\n    alert(`Добро пожаловать,  ${message}`);\r\n};\n\n//////////////////\n// WEBPACK FOOTER\n// ./src/components/index.js\n// module id = 1\n// module chunks = 0\n\n//# sourceURL=webpack:///./src/components/index.js?");
 
 /***/ })
 /******/ ]);
